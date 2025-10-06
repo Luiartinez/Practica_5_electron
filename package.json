@@ -18,11 +18,12 @@
     "electron-updater": "^6.6.2"
   },
   "build": {
-    "appId": "com.ariel.mireproductor",
-    "productName": "Mi Reproductor de Música",
+    "appId": "miapimp3.com",
+    "productName": "Mi Reproductor de Música mp3",
     "publish": {
       "provider": "github",
-      "owner": "Neith21",
+      "owner": "Luiartinez",
       "repo": "practica5"
 }}
+
 }
